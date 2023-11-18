@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "585077800595",
+    "project_id": "login-a7346",
+    "storage_bucket": "login-a7346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585077800595:android:514f6371090c0f1c5b5766",
+        "android_client_info": {
+          "package_name": "com.mesum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585077800595-ia3cpr0f2qb734c2qfqf13b9tsadu9ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mesum",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "585077800595-a0lg51mmg9t1bt7s4v43h054la7git11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZcX1GT8qKTt0OvuwdUPWM2gnVL0pDHVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585077800595-1bj5lncfqnc00lpf124mkp9ntdra8smp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

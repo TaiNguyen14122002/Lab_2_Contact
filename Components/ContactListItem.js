@@ -28,12 +28,12 @@ const ContactListItem = ({name, avatar, phone, onPress}) => {
 
 export default ContactListItem
 
-ContactListItem.PropTypes = {
-    name: PropTypes.string,
-    avatar: PropTypes.string,
-    phone: PropTypes.string,
-    onPress: PropTypes.func,
-};
+// ContactListItem.PropTypes = {
+//     name: PropTypes.string,
+//     avatar: PropTypes.string,
+//     phone: PropTypes.string,
+//     onPress: PropTypes.func,
+// };
 const styles = StyleSheet.create({
     container: {
         paddingLeft: 24,
@@ -67,5 +67,6 @@ const styles = StyleSheet.create({
         color: colors.blue,
         fontSize: 15,
         marginTop: 4,
+        alignItems: 'center'
     },
 });
